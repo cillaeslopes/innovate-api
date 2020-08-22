@@ -1,0 +1,24 @@
+# compiled output
+/dist
+/node_modules
+
+# Logs
+logs
+*.log
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# OS
+.DS_Store
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+
+# tests coverage
+/coverage
+
+# env files
+.env
