@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "API to InnovateBH website",
   "main": "src/index.js",
+  "engines": {
+    "node": "10.16.X"
+  },
   "scripts": {
     "build": "tsc",
     "start": "node dist/src/index.js",
